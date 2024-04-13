@@ -74,3 +74,7 @@ footer{
     background-color: rgb(12, 12, 12);
     color: rgb(255, 255, 255);
 }
+.user-gif{
+    max-height: 100%;
+    max-width: 100%;
+}
